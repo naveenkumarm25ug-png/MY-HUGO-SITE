@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Naveens Blog</description>
     <generator>Hugo</generator>
     <language>ta-in</language>
-    <lastBuildDate>Wed, 04 Mar 2026 15:32:03 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 17:25:46 +0530</lastBuildDate>
     <atom:link href="https://mywebsite.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning through Information Problems</title>
+      <link>https://mywebsite.com/posts/about_unit2/</link>
+      <pubDate>Wed, 18 Mar 2026 17:25:46 +0530</pubDate>
+      <guid>https://mywebsite.com/posts/about_unit2/</guid>
+      <description>&lt;p&gt;The unit is basically give a idea about how images are classified in pixels based on the different types of problems. It insists images not only visual elements but also powerful tools for many things such as problem solving, mathematical stuffs, etc., One of the most interesting part in this unit which I reaaly liked was working with images at the pixel level. we did activities like blurring, contrast, transformation and shifting in images which helped us to understand small things had lot of works at the backend. It was so fun and we learnt  some unknowing facts like pixel calculations. we also explored  number conversions that was the most effective part which is helpful in the bitwise operations. The concept of bitwise operations to pixels showed how computers process images at the binary level. We did  (X-OR) operations with some numbers and check whether it is a idempotent ,self-inverse or invertible.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My views on Information</title>
       <link>https://mywebsite.com/posts/about_unit1/</link>
